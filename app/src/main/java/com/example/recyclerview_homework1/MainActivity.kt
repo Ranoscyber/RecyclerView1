@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
             layoutManager = linearLayoutManagerV
             adapter = customV
         }
+        //https://github.com/Ranoscyber/RecyclerView1
 
     }
 }
